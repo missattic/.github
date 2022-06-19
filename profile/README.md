@@ -68,6 +68,7 @@ Press Releases
 * April 08, 2018 - [code.talks commerce 2018 - Data Warehousing with Python](https://www.youtube.com/watch?v=GdtFuOah-5c) at YouTube
 * October 11, 2018 - [Open Source: Project A Releases Its Data Warehouse Infrastructure](https://medium.com/@Project_A_Ventures/project-a-the-operational-vc-open-source-project-a-releases-its-data-warehouse-infrastructure-ba0993fb7b2) at Medium
 * August 29, 2018 - [Dr. Martin Loetzsch - ETL Patterns with Postgres](https://www.youtube.com/watch?v=whwNi21jAm4) at Youtube | [Slides](https://www.slideshare.net/martinloetzsch/etl-patterns-with-postgres)
+* May 24, 2019 - [Lampenwelt: How they used Mara to build a Data Warehouse](https://insights.project-a.com/lampenwelt-how-they-used-mara-to-build-a-data-warehouse-45b2a87af90b) at Medium
 
 &nbsp;
 
