@@ -1,6 +1,3 @@
-Mara
-====
-
 <img src="https://github.com/mara/.github/raw/main/assets/mara-animal.jpg"  style="width:40%; margin-left: auto; margin-right:auto; display:block;">
 
 The **Mara ETL Framework** is a Python framework to build data pipelines.
