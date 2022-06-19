@@ -1,11 +1,12 @@
 Mara
 ====
 
+<img src="https://github.com/mara/.github/raw/main/assets/mara-animal.jpg"  style="width:40%; margin-left: auto; margin-right:auto; display:block;">
+
 The **Mara ETL Framework** is a Python framework to build data pipelines.
 
-<img src="https://github.com/mara/mara-pipelines/raw/main/assets/mara-animal.jpg" width="150">
 
-It has been designed and build by [Dr. Martin Loetzsch](https://github.com/martin-loetzsch) at [Project A](https://github.com/project-a) as a lightweight data transformation framework for ventures to small for Big Data use cases. Today Mara is maintained and developed further by the Mara community.
+It has been designed and build by [Dr. Martin Loetzsch](https://github.com/martin-loetzsch) at [Project A](https://github.com/project-a) as a lightweight data transformation framework for their ventures. Today the Mara Packages are maintained and developed further by the Mara Open Source community.
 
 &nbsp;
 
@@ -16,6 +17,8 @@ Runnable apps that demonstrates how to build a data warehouse app with mara:
 
 * [Mara Example Project 1](https://github.com/mara/mara-example-project-1) - example ETL integrates publicly available e-commerce and marketing data into a more general modeling and structure for highlighting the capabilities of the Mara framework
 * [Mara Example Project 2](https://github.com/mara/mara-example-project-2) - example ETL integrates PyPi download stats and GitHub repo activitiy metrics into more general Python project activity stats
+
+&nbsp;
 
 Packages overview
 -----------------
@@ -59,19 +62,22 @@ We suggest loading data via tools like [Airbyte](https://airbyte.com/), [Fivetra
 * [project-a/mara-prophet](https://github.com/project-a/mara-prophet) - a lightweight framework for producing, integrating and historizing Facebook-prophet forecasts for time series data in Mara
 * [leo-schick/mara-spark](https://github.com/leo-schick/mara-spark) - a basic implementation of pyspark into a mara pipeline
 
+&nbsp;
 
-Related Press Releases
-----------------------
+Press Releases
+--------------
 
 * December 19, 2017 - [Reducing pain in Data Engineering | Martin Loetzsch](https://www.youtube.com/watch?v=WDBF3OMqltk) at YouTube | [Slides](https://www.slideshare.net/martinloetzsch/reducing-pain-in-data-engineering-data-natives-2017)
 * April 08, 2018 - [code.talks commerce 2018 - Data Warehousing with Python](https://www.youtube.com/watch?v=GdtFuOah-5c) at YouTube
 * October 11, 2018 - [Open Source: Project A Releases Its Data Warehouse Infrastructure](https://medium.com/@Project_A_Ventures/project-a-the-operational-vc-open-source-project-a-releases-its-data-warehouse-infrastructure-ba0993fb7b2) at Medium
 * August 29, 2018 - [Dr. Martin Loetzsch - ETL Patterns with Postgres](https://www.youtube.com/watch?v=whwNi21jAm4) at Youtube | [Slides](https://www.slideshare.net/martinloetzsch/etl-patterns-with-postgres)
 
+&nbsp;
 
 Links
 -----
 
-* Documentation: https://mara.readthedocs.io/
-* PyPI Packages: https://pypi.org/user/mara-pypi-upload-account/
-* GitHub Repositories: https://github.com/orgs/mara/repositories
+* [Documentation](https://mara.readthedocs.io/)
+* [PyPI Packages](https://pypi.org/user/mara-pypi-upload-account/)
+* [Slack Chat](https://communityinviter.com/apps/mara-users/public-invite)
+* [GitHub Repositories](https://github.com/orgs/mara/repositories)
