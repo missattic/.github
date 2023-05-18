@@ -1,4 +1,4 @@
-<img src="https://github.com/missattic/.github/raw/main/assets/missattic-animal.jpg"  style="width:40%; margin-left: auto; margin-right:auto; display:block;">
+<img src="https://github.com/missattic/.github/raw/main/assets/pipebyte-animal.jpg"  style="width:40%; margin-left: auto; margin-right:auto; display:block;">
 
 The **Missattic exETL Framework** is a Java framework to build data pipelines.
 
